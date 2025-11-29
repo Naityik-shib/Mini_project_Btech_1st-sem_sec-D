@@ -23,10 +23,10 @@ void Divisibility(int a)
 }
 int main()
 {
-    int a;
+    int b;
     printf("Enter a number : ");
-    scanf("%d", &a);
-    even_odd(a);
-    Divisibility(a);
+    scanf("%d", &b);
+    even_odd(b);
+    Divisibility(b);
     return 0;
 }
