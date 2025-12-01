@@ -1,4 +1,4 @@
-/*🧮 Problem Title: The Farmer’s Fencing Problem
+/* Problem Title: The Farmer’s Fencing Problem
 💡 Problem Story:
 A farmer named Raju owns a rectangular piece of land.
 He wants to build a fence around it and also plant crops inside the land.
